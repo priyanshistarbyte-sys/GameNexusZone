@@ -1,0 +1,27 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.
+RewriteRule ^(.*)$ http://localhost/GameNexusZone/$1 [R=301,L]
+RewriteRule ^home?$ index.php
+RewriteRule ^about?$ about.php
+RewriteRule ^privacy?$ privacy.php
+RewriteRule ^terms?$ terms.php
+RewriteRule ^cookie?$ cookie.php
+RewriteRule ^disclaimer?$ disclaimer.php
+RewriteRule ^search/([^/]+)/?$ search.php?id=$1  [NC,L]
+RewriteRule ^game/([^/]+)/?$ games.php?id=$1  [NC,L]
+
+
+
+# RewriteEngine on
+# RewriteRule ^home?$ index.php
+# RewriteRule ^about?$ about.php
+# RewriteRule ^privacy?$ privacy.php
+# RewriteRule ^terms?$ terms.php
+# RewriteRule ^cookie?$ cookie.php
+# RewriteRule ^disclaimer?$ disclaimer.php
+# RewriteRule ^search/([^/]+)/?$ search.php?id=$1  [NC,L]
+# RewriteRule ^game/([^/]+)/?$ games.php?id=$1  [NC,L]
+
+
+
+

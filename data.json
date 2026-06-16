@@ -1,0 +1,560 @@
+[
+  	{
+      "url": "games/animal-match/",
+      "img": "static/img/animal-match.png",
+      "name": "animal-match",
+      "category": "strategy"
+    },
+    {
+        "url": "games/animal-rescue/",
+        "img": "static/img/animal-rescue.png",
+        "name": "animal-rescue",
+        "category": "casual, puzzle, kids"
+    },
+    {
+      "url": "games/arrow-master/",
+      "img": "static/img/arrow-master.png",
+      "name": "arrow-master",
+      "category": "action"
+    },
+    {
+        "url": "games/astro-blaster/",
+        "img": "static/img/astro-blaster.png",
+        "name": "astro-blaster",
+        "category": "shooter"
+    },
+    { 
+        "url": "games/ball-pin/",
+        "img": "static/img/ball-pin.png",
+        "name": "ball-pin",
+        "category": "strategy puzzle"
+    },
+    { 
+        "url": "games/ball-shooter/",
+        "img": "static/img/ball-shooter.png",
+        "name": "ball-shooter",
+        "category": "shooter"
+    },
+    {  
+        "url": "games/battle-tanks/",
+        "img": "static/img/battle-tanks.png",
+        "name": "battle-tanks",
+        "category": "Action, casual"
+    },
+    {
+      "url": "games/block-solver/",
+      "img": "static/img/block-solver.png",
+      "name": "block-solver",
+      "category": "puzzle"
+    },
+    {
+      "url": "games/boat-adventure/",
+      "img": "static/img/boat-adventure.png",
+      "name": "boat-adventure",
+      "category": "popular,adventure"
+    },
+    {
+      "url": "games/bouncing-ball/",
+      "img": "static/img/bouncing-ball.png",
+      "name": "bouncing-ball",
+      "category": "popular,strategy"
+    },
+    {
+        "url": "games/box-match/",
+        "img": "static/img/box-match.png",
+        "name": "box-match",
+        "category": "puzzle"
+    },
+    {
+        "url": "games/box-puzzle/",
+        "img": "static/img/box-puzzle.png",
+        "name": "box-puzzle",
+        "category": "casual, puzzle"
+    },
+     {
+      "url": "games/buddy-rescue/",
+      "img": "static/img/buddy-rescue.png",
+      "name": "buddy-rescue",
+      "category": "popular,adventure"
+    },
+    {
+        "url": "games/bullet-storm/",
+        "img": "static/img/bullet-storm.png",
+        "name": "bullet-storm",
+        "category": "shooter, action"
+    },
+    {
+        "url": "games/candy-crusher/",
+        "img": "static/img/candy-crusher.png",
+        "name": "candy-crusher",
+        "category": "puzzle, shooter, clicker"
+    },
+    {
+        "url": "games/candy-world/",
+        "img": "static/img/candy-world.png",
+        "name": "candy-world",
+        "category": "casual, puzzle"
+    },
+    {
+      "url": "games/card-master/",
+      "img": "static/img/card-master.png",
+      "name": "card-master",
+      "category": "strategy"
+    },
+    {
+        "url": "games/card-match/",
+        "img": "static/img/card-match.png",
+        "name": "card-match",
+        "category": "educational, puzzle"
+    },
+    {
+      "url": "games/castle-crusaders/",
+      "img": "static/img/castle-crusaders.png",
+      "name": "castle-crusaders",
+      "category": "popular,action"
+    },
+    {
+        "url": "games/cat-face/",
+        "img": "static/img/cat-face.png",
+        "name": "cat-face",
+        "category": "puzzle, kids"
+    },
+    {
+      "url": "games/circle-dash/",
+      "img": "static/img/circle-dash.png",
+      "name": "circle-dash",
+      "category": "strategy"
+    },
+     {
+      "url": "games/color-merge/",
+      "img": "static/img/color-merge.png",
+      "name": "color-merge",
+      "category": "popular,puzzle"
+    },
+    {
+      "url": "games/colors-clash/",
+      "img": "static/img/colors-clash.png",
+      "name": "colors-clash",
+      "category": "popular,puzzle"
+    },
+    {
+      "url": "games/crystal-crush/",
+      "img": "static/img/crystal-crush.png",
+      "name": "crystal-crush",
+      "category": "puzzle"
+    },
+     {
+      "url": "games/crystal-fun/",
+      "img": "static/img/crystal-fun.png",
+      "name": "crystal-fun",
+      "category": "puzzle"
+    },
+    {
+        "url": "games/crystal-quest/",
+        "img": "static/img/crystal-quest.png",
+        "name": "crystal-quest",
+        "category": "match3, casual"
+    },
+    {
+        "url": "games/cute-monster/",
+        "img": "static/img/cute-monster.png",
+        "name": "cute-monster",
+        "category": "casual, puzzle"
+    },
+    {
+      "url": "games/cute-riddle/",
+      "img": "static/img/cute-riddle.png",
+      "name": "cute-riddle",
+      "category": "popular,puzzle"
+    },
+    {
+      "url": "games/dark-castle/",
+      "img": "static/img/dark-castle.png",
+      "name": "dark-castle",
+      "category": "popular,puzzle"
+    },
+    {
+      "url": "games/escape-maze/",
+      "img": "static/img/escape-maze.png",
+      "name": "escape-maze",
+      "category": "popular,puzzle"
+    },
+    {
+      "url": "games/find-the-letter/",
+      "img": "static/img/find-the-letter.png",
+      "name": "find-the-letter",
+      "category": "popular,strategy"
+    },
+    {
+        "url": "games/fluid-challenge/",
+        "img": "static/img/fluid-challenge.png",
+        "name": "fluid-challenge",
+        "category": "strategy"
+    },
+    {
+      "url": "games/fruit-club/",
+      "img": "static/img/fruit-club.png",
+      "name": "fruit-club",
+      "category": "puzzle"
+    },
+     {  
+        "url": "games/fruit-jam/",
+        "img": "static/img/fruit-jam.png",
+        "name": "fruit-jam",
+        "category": "casual, puzzle, kids"
+    },
+    {  
+        "url": "games/fruit-merge/",
+        "img": "static/img/fruit-merge.png",
+        "name": "fruit-merge",
+        "category": "casual, puzzle, kids"
+    },
+     {
+      "url": "games/gem-fusion/",
+      "img": "static/img/gem-fusion.png",
+      "name": "gem-fusion",
+      "category": "puzzle"
+    },
+    {
+      "url": "games/germ-killar/",
+      "img": "static/img/germ-killar.png",
+      "name": "germ-killar",
+      "category": "action"
+    },
+     {
+      "url": "games/glow-sphere/",
+      "img": "static/img/glow-sphere.png",
+      "name": "glow-sphere",
+      "category": "sports"
+    },
+     { 
+        "url": "games/grass-cutter/",
+        "img": "static/img/grass-cutter.png",
+        "name": "grass-cutter",
+        "category": "puzzle, causal"
+    },
+     {
+        "url": "games/guess-the-animal/",
+        "img": "static/img/guess-the-animal.png",
+        "name": "guess-the-animal",
+        "category": "Educational, Kids"
+    },
+     { 
+        "url": "games/halloween-witch/",
+        "img": "static/img/halloween-witch.png",
+        "name": "halloween-witch",
+        "category": "endless"
+    },
+    { 
+        "url": "games/head-ball/",
+        "img": "static/img/head-ball.png",
+        "name": "head-ball",
+        "category": "endless"
+    },
+     {
+        "url": "games/hidden-hollow/",
+        "img": "static/img/hidden-hollow.png",
+        "name": "hidden-hollow",
+        "category": "platformer, action"
+    },
+    {
+        "url": "games/hidden-treasures/",
+        "img": "static/img/hidden-treasures.png",
+        "name": "hidden-treasures",
+        "category": "strategy"
+    },
+    {
+        "url": "games/hungry-lion/",
+        "img": "static/img/hungry-lion.png",
+        "name": "hungry-lion",
+        "category": "casual, puzzle, kids"
+    },
+     {
+      "url": "games/jet-man/",
+      "img": "static/img/jet-man.png",
+      "name": "jet-man",
+      "category": "adventure"
+    },
+    {
+      "url": "games/jumping-fun/",
+      "img": "static/img/jumping-fun.png",
+      "name": "jumping-fun",
+      "category": "action"
+    },
+    { 
+        "url": "games/kai-archer/",
+        "img": "static/img/kai-archer.png",
+        "name": "kai-archer",
+        "category": "action, adventure"
+    },
+    { 
+        "url": "games/light-stream/",
+        "img": "static/img/light-stream.png",
+        "name": "light-stream",
+        "category": "educational, clicker, kids"
+    },
+    {
+      "url": "games/magical-match/",
+      "img": "static/img/magical-match.png",
+      "name": "magical-match",
+      "category": "puzzle"
+    },
+    { 
+        "url": "games/magical-water/",
+        "img": "static/img/magical-water.png",
+        "name": "magical-water",
+        "category": "logic, kids"
+    },
+     {
+      "url": "games/magnet-fun/",
+      "img": "static/img/magnet-fun.png",
+      "name": "magnet-fun",
+      "category": "strategy"
+    },
+     { 
+        "url": "games/math-genius/",
+        "img": "static/img/math-genius.png",
+        "name": "math-genius",
+        "category": "educational, kids"
+    },
+    { 
+        "url": "games/math-time/",
+        "img": "static/img/math-time.png",
+        "name": "math-time",
+        "category": "educational, kids"
+    },
+    {
+      "url": "games/maze-master/",
+      "img": "static/img/maze-master.png",
+      "name": "maze-master",
+      "category": "strategy"
+    },
+     {
+      "url": "games/missile-destroyer/",
+      "img": "static/img/missile-destroyer.png",
+      "name": "missile-destroyer",
+      "category": "action"
+    },
+    { 
+        "url": "games/monkey-puzzle/",
+        "img": "static/img/monkey-puzzle.png",
+        "name": "monkey-puzzle",
+        "category": "puzzle, kids"
+    },
+    {
+        "url": "games/monkey-runner/",
+        "img": "static/img/monkey-runner.png",
+        "name": "monkey-runner",
+        "category": "casual"
+    },
+    {
+        "url": "games/mystic-blades/",
+        "img": "static/img/mystic-blades.png",
+        "name": "mystic-blades",
+        "category": "casual"
+    },
+   { 
+        "url": "games/mystic-quest/",
+        "img": "static/img/mystic-quest.png",
+        "name": "mystic-quest",
+        "category": "puzzle, educational"
+    },
+    {
+        "url": "games/mystic-stones/",
+        "img": "static/img/mystic-stones.png",
+        "name": "mystic-stones",
+        "category": "casual"
+    },
+     {
+        "url": "games/ninja-escape/",
+        "img": "static/img/ninja-escape.png",
+        "name": "ninja-escape",
+        "category": "casual, platformer, adventure"
+    },
+    {
+        "url": "games/ninja-run/",
+        "img": "static/img/ninja-run.png",
+        "name": "ninja-run",
+        "category": "strategy"
+    },
+    {
+        "url": "games/number-connect/",
+        "img": "static/img/number-connect.png",
+        "name": "number-connect",
+        "category": "educational, kids, logic"
+    },
+    {
+        "url": "games/paint-splash/",
+        "img": "static/img/paint-splash.png",
+        "name": "paint-splash",
+        "category": "idle, kids"
+    },
+    { 
+        "url": "games/planet-rings/",
+        "img": "static/img/planet-rings.png",
+        "name": "planet-rings",
+        "category": "puzzle, kids"
+    },  
+    {
+        "url": "games/princess-diana/",
+        "img": "static/img/princess-diana.png",
+        "name": "princess-diana",
+        "category": "strategy"
+    },
+    {
+        "url": "games/puppy-jump/",
+        "img": "static/img/puppy-jump.png",
+        "name": "puppy-jump",
+        "category": "platformer, action"
+    },
+    {
+        "url": "games/puzzle-slide/",
+        "img": "static/img/puzzle-slide.png",
+        "name": "puzzle-slide",
+        "category": "strategy"
+    },
+      {
+        "url": "games/puzzle-world/",
+        "img": "static/img/puzzle-world.png",
+        "name": "puzzle-world",
+        "category": "strategy"
+    },
+     {
+        "url": "games/rabbit-runner/",
+        "img": "static/img/rabbit-runner.png",
+        "name": "rabbit-runner",
+        "category": "endless , runner"
+    },
+     {
+        "url": "games/secret-adventure/",
+        "img": "static/img/secret-adventure.png",
+        "name": "secret-adventure",
+        "category": "survival, adventure"
+    },
+     {
+        "url": "games/secret-word/",
+        "img": "static/img/secret-word.png",
+        "name": "secret-word",
+        "category": "educational, kids"
+    },
+    {
+        "url": "games/shadow-strike/",
+        "img": "static/img/shadow-strike.png",
+        "name": "shadow-strike",
+        "category": "adventure, action, platformer"
+    },
+    {
+        "url": "games/sheep-runner/",
+        "img": "static/img/sheep-runner.png",
+        "name": "sheep-runner",
+        "category": "survival, kids"
+    },
+    {
+        "url": "games/snow-panda/",
+        "img": "static/img/snow-panda.png",
+        "name": "snow-panda",
+        "category": "casual, clicker"
+    },
+      {
+        "url": "games/space-blaster/",
+        "img": "static/img/space-blaster.png",
+        "name": "space-blaster",
+        "category": "casual"
+    },
+     {
+        "url": "games/space-quest/",
+        "img": "static/img/space-quest.png",
+        "name": "space-quest",
+        "category": "merge, puzzle"
+    },
+    {
+        "url": "games/super-bunny/",
+        "img": "static/img/super-bunny.png",
+        "name": "super-bunny",
+        "category": "endless, runner"
+    },
+      {
+        "url": "games/sweet-cat/",
+        "img": "static/img/sweet-cat.png",
+        "name": "sweet-cat",
+        "category": "strategy, casual"
+    },
+      {
+        "url": "games/target-blocks/",
+        "img": "static/img/target-blocks.png",
+        "name": "target-blocks",
+        "category": "casual"
+    },
+    {
+        "url": "games/tile-match/",
+        "img": "static/img/tile-match.png",
+        "name": "tile-match",
+        "category": "casual"
+    },
+    {
+        "url": "games/tiles-puzzle/",
+        "img": "static/img/tiles-puzzle.png",
+        "name": "tiles-puzzle",
+        "category": "casual, puzzle, clicker"
+    },
+    {
+        "url": "games/tower-defender/",
+        "img": "static/img/tower-defender.png",
+        "name": "tower-defender",
+        "category": "strategy"
+    },
+    {
+        "url": "games/treasure-quest/",
+        "img": "static/img/treasure-quest.png",
+        "name": "treasure-quest",
+        "category": "strategy"
+    },
+     {
+        "url": "games/tribal-twist/",
+        "img": "static/img/tribal-twist.png",
+        "name": "tribal-twist",
+        "category": "strategy"
+    },
+     {
+        "url": "games/turtle-coaster/",
+        "img": "static/img/turtle-coaster.png",
+        "name": "turtle-coaster",
+        "category": "Casual, Strategy"
+    },
+       {
+        "url": "games/wild-wonders/",
+        "img": "static/img/wild-wonders.png",
+        "name": "wild-wonders",
+        "category": "Kids, Casual"
+    },
+    {
+        "url": "games/word-quest/",
+        "img": "static/img/word-quest.png",
+        "name": "word-quest",
+        "category": "educational, kids"
+    },
+     {
+        "url": "games/word-swipe/",
+        "img": "static/img/word-swipe.png",
+        "name": "word-swipe",
+        "category": "educational, kids"
+    },
+    {
+        "url": "games/word-whiz/",
+        "img": "static/img/word-whiz.png",
+        "name": "word-whiz",
+        "category": "educational, kids"
+    },
+    {
+        "url": "games/zombie-apocalypse/",
+        "img": "static/img/zombie-apocalypse.png",
+        "name": "zombie-apocalypse",
+        "category": "action, clicker"
+    },
+    {
+        "url": "games/zombie-slayer/",
+        "img": "static/img/zombie-slayer.png",
+        "name": "zombie-slayer",
+        "category": "zombie"
+    }
+]

@@ -1,0 +1,43 @@
+
+{
+	"data" : {
+		"is_guide_mode_classic" : 0,
+		"is_guide_mode_sudoku" : 0,
+		"score_best_sudoku" : 0,
+		"score_best_sudoku_old" : 0,
+		"score_best_classic" : 0,
+		"score_best_blast" : 0,
+		"score_best_classic_old" : 0,
+		"score_best_advanced" : 0,
+		"score_best_advanced_old" : 0,
+		"score_best_blast_old": 0,
+		"is_guide" : 0,
+		"is_guide_sudoku" : 0,
+		"mode_game" : "",
+		"mode_name" : "", 
+		"skin" : {
+			"classic" : {
+				"start" : 1,
+				"end" : 7
+			},
+			"challenge" : {
+				"start" : 8,
+				"end" : 14
+			},
+			"blast" : {
+				"start" : 15,
+				"end" : 24
+			},
+			"timer"  : {
+				"start" : 25,
+				"end" : 31
+			},
+			"advanced" : {
+				"start" : 32,
+				"end" : 44
+			}
+		}
+			
+		
+	}
+}
